@@ -39,7 +39,7 @@ To get started, clone this repository and install the required dependencies:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jawikas/memefi-bot.git
+   git clone https://github.com/Emperorgraphics/memefi-bot-mod.git
    cd memefi-bot
    ```
 

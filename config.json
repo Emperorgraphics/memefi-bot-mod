@@ -4,8 +4,8 @@
     "auto_claim_combo": false,
     "crazy_damage": false,
     "attempt_hit_boss": 6,
-    "min_damage": 2000000,
-    "max_damage": 50000000,
+    "min_damage": 20000000,
+    "max_damage": 500000000,
 
     "ACCOUNT_DELAY": 5,
     "LOOP_COUNTDOWN": 800

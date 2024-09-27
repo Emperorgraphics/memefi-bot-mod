@@ -1,8 +1,8 @@
 # MEMEFI BOT - REQUIRES A PROXY TO USE
 
-memefi bot automation for memefi miniapp https://t.me/memefi_coin_bot?start=r_6fd61f8833 which has quite complete features, made more concise and readable for development, taken from the original repository owned by 💘 [adearmanwijaya](https://github.com/adearmanwijaya).
+memefi bot automation for memefi miniapp https://t.me/memefi_coin_bot/main?startapp=r_143877e838 which has quite complete features, made more concise and readable for development, taken from the original repository owned by 💘 [adearmanwijaya](https://github.com/adearmanwijaya).
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+[TELEGRAM CHANNEL](https://t.me/canabixz) | [TWITTER](https://x.com/psf_blackmamba)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ memefi bot automation for memefi miniapp https://t.me/memefi_coin_bot?start=r_6f
 - Auto Use Free Daily Booster Energy.
 - Auto Use Free Daily Turbo Booster.
 - Semi Auto Complete Daily Combo.
-- Crazy Damage / God Mode (adearmanwijaya).
+- Crazy Damage / God Mode (blackmamba).
 - Crazy `min and max Damage` Configurable via `configs.json`.
 
 " Crazy Damage / God Mode allows you to create as many force hit values as possible when activating the turbo booster, which will make the level in the memefi game rise to the top level faster. "

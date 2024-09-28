@@ -1,0 +1,1 @@
+query_id=AAG5HvgLAwAAALke-AvLkX59&user=%7B%22id%22%3A6643261113%2C%22first_name%22%3A%22Linda%20%F0%9F%90%B8%22%2C%22last_name%22%3A%22Anderson%22%2C%22username%22%3A%22Lind_son%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727530665&hash=f3a5c12701cd502105cddf7cf40318294dda773d70d36db189c83bec330ff515
